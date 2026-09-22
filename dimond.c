@@ -25,7 +25,7 @@ int main()
 
     menu:
     
-    printf("Give the value of dimond: ");
+    printf("Give the value of number of dimond: ");
     scanf("%d",&b);
     printf("Give the value of weight: ");
     scanf(" %f",&c);
